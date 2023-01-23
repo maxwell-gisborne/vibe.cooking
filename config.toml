@@ -1,5 +1,4 @@
-#baseURL = 'https://vibe.cooking/'
-baseURL = 'https://gisborne.xyz/vibe-cooking/'
+baseURL = 'https://vibe.cooking/'
 languageCode = 'en-us'
 title = 'Vibe Cooking'
 theme = 'lugo'
